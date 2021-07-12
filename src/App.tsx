@@ -5,7 +5,7 @@ import React, { FC } from 'react'
 import { AppContextProvider } from 'context/App'
 import Market from 'components/Market'
 import ErrorBoundary from 'components/error-boundary/ErrorBoundary'
-
+//more shite
 const App: FC = () => (
   <ErrorBoundary>
     <AppContextProvider>
